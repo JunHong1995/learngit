@@ -19,7 +19,8 @@ Git is free software distributed under the GPL.
 
 我要修改了git的东西了
 
-我又修改了git的东西了
+
+git stash 2我又修改了git的东西了
 
 
 
